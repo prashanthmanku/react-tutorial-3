@@ -34,3 +34,12 @@
   border: none;
   border-radius: 4px;
 }
+.red {
+  color: red;
+}
+.green {
+  color: darkgreen;
+}
+.black {
+  color: orange;
+}
